@@ -11,6 +11,7 @@ buildscript {
         // in the individual module build.gradle files
         //this kijji1
         //hello
+        //hi nav here
     }
 }
 
